@@ -1,0 +1,178 @@
+/* -----------
+font 
+------------- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,700;1,400&display=swap');
+
+body {
+
+    font-family: 'poppins', sans-serif;
+    background-color: #F3F1FF;
+}
+
+.container {
+    background-color: #161616;
+    width: 1100px;
+    height: 646px;
+    margin-bottom: 76px;
+    margin-left: 140px;
+    margin-right: 139px;
+    border-radius: 30px;
+    margin-top: 76px;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-weight: 700px;
+    font-size: 55px;
+    margin-left: 126px;
+    margin-bottom: 31px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-row-gap: 10px;
+}
+
+.describe {
+    color: #FFFFFF;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26px;
+    margin-left: 112px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.watch-button {
+    color: white;
+    text-align: center;
+    width: 187px;
+    height: 56px;
+    background-color: red;
+    border-radius: 10px;
+    padding: 2px;
+    gap: 30px;
+    margin-left: 112px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.marcelo img {
+    position: absolute;
+    width: 495px;
+    height: 613px;
+    left: 56%;
+    top: 109px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.end-page {
+    width: 1600px;
+    height: 444px;
+    background-color: #161616;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    align-items: center;
+
+}
+
+.menu-bar {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 10px;
+    grid-gap: 10px;
+
+
+}
+
+.matches {
+    width: 312px;
+    height: 312px;
+    background-color: #161616;
+    text-align: center;
+    margin-left: 209px;
+    font-weight: 500;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.match-1 {
+    width: 252px;
+    height: 64px;
+    background-color: #B9B9B9;
+    margin: 30px 30px;
+    padding: 2px;
+}
+
+.match-2 {
+    width: 252px;
+    height: 64px;
+    background-color: #B9B9B9;
+    margin: 30px 30px;
+    padding: 2px;
+
+}
+
+.match-3 {
+    width: 252px;
+    height: 64px;
+    background-color: #DD0000;
+    margin: 30px 30px;
+    padding: 2px;
+}
+
+
+
+
+.country {
+    color: black;
+}
+
+
+
+
+
+
+.live-1 img {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 312px;
+    height: 312px;
+    background-color: #B9B9B9;
+    border: 1px solid white;
+    border-radius: 2px;
+    grid-gap: 20px;
+    justify-content: space-between;
+    display: flex;
+
+}
+
+
+h2 {
+
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-top: 100px;
+    margin-left: 600px;
+    margin-bottom: 152px;
+}
+
+hr {
+    border: 2px solid white;
+
+
+}
+
+.bottom {
+    color: #B9B9B9;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 2px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 200px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+
+
+}
+
